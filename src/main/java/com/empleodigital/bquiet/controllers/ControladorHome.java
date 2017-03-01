@@ -9,7 +9,7 @@ public class ControladorHome {
 	
 	@RequestMapping(value="/")
 	public ModelAndView on() {
-		return new ModelAndView("home");
+		return new ModelAndView("login");
 	}
 
 }
