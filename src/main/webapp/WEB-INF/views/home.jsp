@@ -7,8 +7,10 @@
 <body>
 <h1>
 	Hello mundooooo!  
+	
+	<h2>bquiet</h2>
 </h1>
 
-<P>  The time on the server is ${serverTime}. holaaa </P>
+<P>  venga que ya son las 1!!!!!! </P>
 </body>
 </html>
